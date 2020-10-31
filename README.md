@@ -1,6 +1,10 @@
 # intro
 
-A new Flutter project.
+This is a very simple and easiest app for the student to get started with Flutter.
+
+## Screenshots
+
+<img src="flutter_01.png" height="500em" />
 
 ## Getting Started
 
