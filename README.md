@@ -25,7 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
-<a>
-  <img src = "https://contrib.rocks/image?repo = manjay007/IntroToFlutter"/>
+<a href="https://github.com/manjay007/IntroToFlutter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=manjay007/IntroToFlutter" />
 </a>
