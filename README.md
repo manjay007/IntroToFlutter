@@ -26,6 +26,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<a href = "#">
-  <img src = "https://contrib.rocks/image?repo = manjay007/IntroToFlutter/>
+<a>
+  <img src = "https://contrib.rocks/image?repo = manjay007/IntroToFlutter"/>
 </a>
