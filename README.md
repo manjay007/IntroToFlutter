@@ -1,6 +1,6 @@
 # About The Project
 
-This is a very simple and easiest app for the begineers to get started with Flutter.
+This is a very simple and easiest app for the beginners to get started with Flutter.
 
 ## Screenshots
 
